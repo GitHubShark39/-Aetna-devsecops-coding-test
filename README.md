@@ -1,4 +1,4 @@
-# -Aetna-devsecops-coding-test
+# Aetna-devsecops-coding-test
 Version 2
 devsecops-coding-test
 
